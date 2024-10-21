@@ -1,3 +1,5 @@
+This is a simple React app. I used it to experiment with useState and JS functions. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
